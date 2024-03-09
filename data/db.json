@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "December 20, 2021 11:47:39 AM",
+      "body": "Lorem ippusem dolor sit amet, consector"
+    },
+    {
+      "id": 2,
+      "title": "2nd post",
+      "datetime": "December 20, 2021 11:47:39 AM",
+      "body": "Lorem ippusem dolor sit amet, consector"
+    },
+    {
+      "id": 3,
+      "title": "3rd post",
+      "datetime": "December 20, 2021 11:47:39 AM",
+      "body": "Lorem ippusem dolor sit amet, consector"
+    },
+    {
+      "id": 4,
+      "title": "Testing a 4th post",
+      "datetime": "December 20, 2021 11:47:39 AM",
+      "body": "Some more testing paragraphs"
+    }
+  ]
+}
